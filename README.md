@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou [Anderson Viana]  
+# 👋 Olá, eu sou Anderson Viana
 
 🎯 **Sobre mim**  
-Sou [sua profissão/área de atuação, ex: Desenvolvedor Full Stack, Estudante de Ciência da Computação, Engenheiro de Software] com foco em [coloque seu foco principal: back-end, front-end, ciência de dados, etc.].  
+Sou Desenvolvedor Full Stac em formação com foco em [coloque seu foco principal: back-end, front-end, ciência de dados, etc.].  
 Tenho interesse em desenvolver soluções que unam **[tema de interesse: inovação, tecnologia, automação, IA, etc.]** para impactar positivamente pessoas e empresas.  
 
 ---
@@ -33,8 +33,8 @@ Tenho interesse em desenvolver soluções que unam **[tema de interesse: inovaç
 ---
 
 ## 📫 Como me encontrar  
-- LinkedIn: [Anderson Viana Cataldo](https://linkedin.com/in/andersonnviana)  
-- E-mail: [andersonvcataldo@gmail.com]  
+- LinkedIn: Anderson Viana Cataldo(https://linkedin.com/in/andersonnviana)  
+- E-mail: andersonvcataldo@gmail.com
 - Portfólio: [seu site/portfolio]  
 
 ---
