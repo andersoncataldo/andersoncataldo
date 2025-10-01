@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Anderson Viana
 
 🎯 **Sobre mim**  
-Sou Desenvolvedor Full Stac em formação com foco em [coloque seu foco principal: back-end, front-end, ciência de dados, etc.].  
-Tenho interesse em desenvolver soluções que unam **[tema de interesse: inovação, tecnologia, automação, IA, etc.]** para impactar positivamente pessoas e empresas.  
+Sou Desenvolvedor Full Stack em formação com foco em **UI/UX, automação de atividades e desenvolvimento de soluções tecnológicas**.  
+Tenho interesse em desenvolver soluções que unam **tema de interesse: inovação, tecnologia, automação e também IA** para impactar positivamente pessoas e empresas.  
 
 ---
 
