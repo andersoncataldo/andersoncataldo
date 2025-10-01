@@ -2,7 +2,7 @@
 
 🎯 **Sobre mim**  
 Sou Desenvolvedor Full Stack em formação com foco em **UI/UX, automação de atividades e desenvolvimento de soluções tecnológicas**.  
-Tenho interesse em desenvolver soluções que unam **tema de interesse: inovação, tecnologia, automação e também IA** para impactar positivamente pessoas e empresas.  
+Tenho interesse em desenvolver soluções que unam **inovação, tecnologia, automação e também IA** para impactar positivamente pessoas e empresas.  
 
 ---
 
