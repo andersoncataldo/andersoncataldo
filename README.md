@@ -36,10 +36,15 @@ Tenho interesse em desenvolver soluções que unam **inovação, tecnologia, aut
 
 ---
 
-## 📫 Como me encontrar  
-- LinkedIn: Anderson Viana Cataldo(https://linkedin.com/in/andersonnviana)  
-- E-mail: andersonvcataldo@gmail.com
-- Portfólio: [seu site/portfolio]  
+## 📫 Como me encontrar
+<div align = "bottom" >
+  <a href="andersonvcataldo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+    <a href="https://linkedin.com/in/andersonnviana" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ---
 
@@ -49,3 +54,7 @@ Tenho interesse em desenvolver soluções que unam **inovação, tecnologia, aut
 
 ## 📊 Meu Status no GitHub
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=andersoncataldo&theme=dark&locale=pt&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersoncataldo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
