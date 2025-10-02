@@ -44,3 +44,5 @@ Tenho interesse em desenvolver soluções que unam **inovação, tecnologia, aut
 ---
 
 ✨ _"A tecnologia é o meio pelo qual transformamos ideias em realidade."_  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=andersoncataldo&theme=dark&locale=pt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
