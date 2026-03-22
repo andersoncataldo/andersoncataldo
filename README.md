@@ -1,16 +1,16 @@
-# 👋 Olá, eu sou Anderson Viana
+# 👋 Olá, eu sou o Anderson Viana
 
-🎯 **Sobre mim**  
-Sou Desenvolvedor Full Stack com foco em RPA, desenvolvimento Web e UI/UX design**.  
-Meu foco é implementar a tecnologia e a IA que impulsonem atividades e projetos positivamente para as pessoas e empresas.  
+🎯 **Sobre mim** * 🚀 **Desenvolvedor Full-Stack e entusiasta de RPA**, focado em transformar gargalos operacionais em soluções automatizadas.
+* ⚙️ **Impacto real:** Reduzi em mais de 85% o tempo de rotinas fiscais no meu trabalho atual através de automações com Python (Playwright, Pandas).
+* 💻 **Web:** Desenvolvo plataformas eficientes de ponta a ponta utilizando React e Java (Spring Boot).
 
 ---
 
 ## 🚀 Objetivos Principais 
-- 📚 Consolidar minhas bases em **desenvolvimento Full Stack**.  
+- 📚 Consolidar as minhas bases em **desenvolvimento Full Stack**.  
 - 💡 Explorar boas práticas de **arquitetura de software** e **design patterns**.  
-- 🎨 Aprofundar meus conhecimentos em **UI/UX** para criar experiências de usuário melhores.  
-- 🌍 Contribuir com projetos colaborativos e open source.
+- 🎨 Aprofundar os meus conhecimentos em **UI/UX** para criar melhores experiências de utilizador.  
+- ⚙️ Desenvolver soluções de **RPA (Robotic Process Automation)** que gerem impacto real, poupando tempo e recursos às empresas.
 
 ---
 
@@ -24,12 +24,22 @@ Meu foco é implementar a tecnologia e a IA que impulsonem atividades e projetos
 ## 🛠️ Tecnologias que utilizo  
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring Boot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
+  <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
 ---
