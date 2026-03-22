@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Anderson Viana
 
-🎯 **Sobre mim** * 🚀 **Desenvolvedor Full-Stack e entusiasta de RPA**, focado em transformar gargalos operacionais em soluções automatizadas.
+🎯 **Sobre mim**
+* 🚀 **Desenvolvedor Full-Stack e entusiasta de RPA**, focado em transformar gargalos operacionais em soluções automatizadas.
 * ⚙️ **Impacto real:** Reduzi em mais de 85% o tempo de rotinas fiscais no meu trabalho atual através de automações com Python (Playwright, Pandas).
 * 💻 **Web:** Desenvolvo plataformas eficientes de ponta a ponta utilizando React e Java (Spring Boot).
 
@@ -24,7 +25,6 @@
 ## 🛠️ Tecnologias que utilizo  
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring Boot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
@@ -34,7 +34,6 @@
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg">
   <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   
