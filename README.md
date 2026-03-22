@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Anderson Viana
 
-🎯 **Sobre mim**
-* 🚀 **Desenvolvedor Full-Stack e entusiasta de RPA**, focado em transformar gargalos operacionais em soluções automatizadas.
-* ⚙️ **Impacto real:** Reduzi em mais de 85% o tempo de rotinas fiscais no meu trabalho atual através de automações com Python (Playwright, Pandas).
-* 💻 **Web:** Desenvolvo plataformas eficientes de ponta a ponta utilizando React e Java (Spring Boot).
+## 🎯 Sobre mim
+- 🚀 **Desenvolvedor Full-Stack e entusiasta de RPA**, focado em transformar gargalos operacionais em soluções automatizadas.
+- ⚙️ **Impacto real:** Reduzi em mais de 85% o tempo de rotinas fiscais no meu trabalho atual através de automações com Python (Playwright, Pandas).
+- 💻 **Web:** Desenvolvo plataformas eficientes de ponta a ponta utilizando React e Java (Spring Boot).
 
 ---
 
