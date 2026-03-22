@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou Anderson Viana
 
 🎯 **Sobre mim**  
-Sou Desenvolvedor Full Stack em formação com foco em **UI/UX, automação de atividades e desenvolvimento de soluções tecnológicas**.  
-Tenho interesse em desenvolver soluções que unam **inovação, tecnologia, automação e também IA** para impactar positivamente pessoas e empresas.  
+Sou Desenvolvedor Full Stack com foco em RPA, desenvolvimento Web e UI/UX design**.  
+Meu foco é implementar a tecnologia e a IA que impulsonem atividades e projetos positivamente para as pessoas e empresas.  
 
 ---
 
-## 🚀 Objetivos  
+## 🚀 Objetivos Principais 
 - 📚 Consolidar minhas bases em **desenvolvimento Full Stack**.  
 - 💡 Explorar boas práticas de **arquitetura de software** e **design patterns**.  
 - 🎨 Aprofundar meus conhecimentos em **UI/UX** para criar experiências de usuário melhores.  
