@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Full-Stack e atuo com automação de processos (RPA), unindo desenvolvimento de aplicações web ao uso de Python para automatizar rotinas manuais em ambientes corporativos. Atualmente curso Ciência da Computação na UNIFOR (6º semestre) e trabalho como Estagiário de T.I na Distribuidora Mais Saúde.
+Sou desenvolvedor Full-Stack Júnior e atuo com automação de processos (RPA), unindo desenvolvimento de aplicações web ao uso de Python para automatizar rotinas manuais em ambientes corporativos. Atualmente curso Ciência da Computação na UNIFOR (6º semestre) e trabalho como Estagiário de T.I na Distribuidora Mais Saúde, onde já desenvolvi robôs de automação que reduziram um processo manual de 6h para menos de 10 segundos.
 
 ---
 
@@ -10,19 +10,24 @@ Sou desenvolvedor Full-Stack e atuo com automação de processos (RPA), unindo d
 
 **Front-end:** React, Next.js, Vue.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
 
-**Back-end:** Node.js, Express, Java (Spring Boot), Python (Django)
+**Back-end:** Node.js, Express, Java (Spring Boot), Python (Django), APIs REST
 
-**Automação & RPA:** Python (Selenium, Playwright, PyAutoGUI, Webbrowser, Tkinter), Web Scraping, Extração de Dados XML
+**Automação & RPA:** Python (Selenium, WebDriver, Playwright, PyAutoGUI, Webbrowser, Tkinter), RPA (Robotic Process Automation), Web Scraping (FTP, extração de dados web e bancários), Extração e Manipulação de Dados XML
 
 **Banco de Dados:** PostgreSQL, MongoDB, Supabase, Neon, SQL
 
-**Ferramentas:** Git, GitHub, Vercel, Figma, Trello, n8n
+**Cloud & DevOps:** Vercel, Git, GitHub, Deploy CI/CD
+
+**Ferramentas:** Figma, Trello, Miro, n8n, Scrum/Ágil
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring Boot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -39,6 +44,28 @@ Sou desenvolvedor Full-Stack e atuo com automação de processos (RPA), unindo d
 ## 🎯 Área de Atuação
 
 Desenvolvimento Full-Stack • Automação de Processos (RPA) • Infraestrutura em Nuvem e Redes
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🩺 Central Mais Saúde — Sistema de Chamados
+Sistema web de abertura e gestão de chamados desenvolvido para uso interno da Distribuidora Mais Saúde, com foco em centralizar solicitações de suporte e agilizar o fluxo entre áreas de negócio e T.I. Projeto autoral, do levantamento de requisitos ao deploy em produção.
+
+**Tech:** React, Next.js, Node.js, PostgreSQL (Supabase), Tailwind CSS, Vercel
+🔗 Deploy: [centralmaissaude.vercel.app](https://centralmaissaude.vercel.app) — *código privado (projeto corporativo)*
+
+### 🎮 Plataforma Gamificada — São Carlo Acutis
+Plataforma web Full-Stack gamificada, com foco em performance, escalabilidade e experiência do usuário.
+
+**Tech:** React, TypeScript, Tailwind CSS, Java (Spring Boot), PostgreSQL (Neon), Vercel
+🔗 Código: [github.com/andersoncataldo/CarloAcutis](https://github.com/andersoncataldo/CarloAcutis) | Deploy: [carlo-acutis-virid.vercel.app](https://carlo-acutis-virid.vercel.app)
+
+### 💼 Portfólio Web
+Portfólio pessoal moderno e responsivo, aplicando boas práticas de UI/UX para destacar projetos e experiências profissionais.
+
+**Tech:** React, TypeScript, Tailwind CSS, Vercel
+🔗 Código: [github.com/andersoncataldo/andersoncataldo.tech](https://github.com/andersoncataldo/andersoncataldo.tech) | Deploy: [andersoncataldotech.vercel.app](https://andersoncataldotech.vercel.app)
 
 ---
 
@@ -78,4 +105,6 @@ Desenvolvimento Full-Stack • Automação de Processos (RPA) • Infraestrutura
 
 ## 🚀 Objetivo Profissional
 
-Busco oportunidades como desenvolvedor Full-Stack e/ou em automação de processos (RPA), onde eu possa aplicar meu conhecimento em desenvolvimento web e Python para gerar impacto real em times e produtos, ao mesmo tempo em que continuo evoluindo em infraestrutura e boas práticas de engenharia de software.
+Busco oportunidades como Desenvolvedor Full-Stack Júnior e/ou em Automação de Processos (RPA), onde eu possa aplicar meu conhecimento em desenvolvimento web (React, Next.js, Node.js) e Python para gerar impacto real em times e produtos, ao mesmo tempo em que continuo evoluindo em infraestrutura, cloud e boas práticas de engenharia de software.
+
+Disponibilidade: Remoto / Híbrido
