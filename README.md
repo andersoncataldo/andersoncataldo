@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://andersoncataldotech.vercel.app" target="_blank">
-  <img src="./assets/hero-banner.svg?v=1" alt="Anderson Viana Cataldo — Desenvolvedor Full-Stack, Automação & RPA e Agentes de IA" width="100%" />
+  <img src="./assets/hero-banner.svg?v=2" alt="Anderson Viana Cataldo — Desenvolvedor Full-Stack, Automação & RPA e Agentes de IA" width="100%" />
 </a>
 
 <br />
@@ -30,7 +30,7 @@ Sou **Desenvolvedor Full-Stack** e especialista em **Automação (RPA) e IA apli
 - 🎓 **Formação:** Bacharelado em Ciência da Computação na **UNIFOR** *(6º semestre · previsão dez/2027)*
 - 🏅 **Certificação Internacional:** **Huawei HCIA-Storage V5.0** *(jun/2026 — SAN/NAS, RAID, Virtualização e Disaster Recovery)*
 - 🤖 **Diferencial de Engenharia:** Orquestração de **9 agentes de IA** em arquitetura **Maker-Checker** *(Claude Code + MCP + Gemini API)* combinada a **Spec-Driven Development (OpenSpec/BDD)** e gates automatizados de qualidade (**58 testes Pytest**, **35 asserções Playwright**, **95/95 evals de IA sem alucinação**)
-- 🌍 **Idiomas & Modelo:** Português *(Nativo)* · Inglês *(Avançado)* · Espanhol *(Básico)* — **Fortaleza, CE · Remoto / Híbrido**
+- 🌍 **Idiomas & Localização:** Português *(Nativo)* · Inglês *(Avançado)* · Espanhol *(Básico)* — **Fortaleza, CE · Atuação 100% Presencial**
 
 ```json
 // visitor@cataldo-tech:~$ cat profile.json
@@ -70,7 +70,7 @@ Sou **Desenvolvedor Full-Stack** e especialista em **Automação (RPA) e IA apli
 ## 💼 Experiência Profissional & Formação
 
 ### 🩺 Distribuidora Mais Saúde — *Estagiário de T.I. (Full-Stack, Automação & IA)*
-> **jun/2026 – presente** · Fortaleza, CE *(Híbrido)*
+> **jun/2026 – presente** · Fortaleza, CE *(100% Presencial)*
 
 - Desenvolvo funcionalidades no monorepo corporativo **Central Grupo Mais** *(arquitetura e requisitos definidos pela gestão)* com **SSO via JWT**, **Next.js 16**, **React 19**, **FastAPI**, **Node.js** e **Supabase (PostgreSQL com RLS)**, unificando **4 sistemas internos** *(Central, Chamados, Devolução e Ativos)*.
 - Implementei suíte automatizada de qualidade com **58 testes Pytest** *(fluxos E2E, autenticação e LGPD)* e **35 asserções visuais em Playwright** com checagem de design system em **5 pacotes**.

@@ -58,13 +58,13 @@
   <rect x="44" y="34" width="292" height="32" rx="16" fill="#6366f1" fill-opacity="0.16" stroke="#818cf8" stroke-opacity="0.38" stroke-width="1" />
   <text x="62" y="54" fill="#a5b4fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="0.9">ENGINEERING PROFILE · FORTALEZA, CE</text>
 
-  <rect x="706" y="34" width="250" height="32" rx="16" fill="#10b981" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.38" stroke-width="1" />
-  <circle cx="726" cy="50" r="7" fill="#10b981" fill-opacity="0.35">
+  <rect x="702" y="34" width="254" height="32" rx="16" fill="#10b981" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.38" stroke-width="1" />
+  <circle cx="722" cy="50" r="7" fill="#10b981" fill-opacity="0.35">
     <animate attributeName="r" values="4.5;9;4.5" dur="2.2s" repeatCount="indefinite" />
     <animate attributeName="fill-opacity" values="0.5;0.05;0.5" dur="2.2s" repeatCount="indefinite" />
   </circle>
-  <circle cx="726" cy="50" r="4.5" fill="#10b981" />
-  <text x="742" y="54" fill="#6ee7b7" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Disponível · Remoto / Híbrido</text>
+  <circle cx="722" cy="50" r="4.5" fill="#10b981" />
+  <text x="738" y="54" fill="#6ee7b7" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Em atividade · Full-Stack &amp; IA</text>
 
   <!-- Main Heading -->
   <text x="44" y="122" fill="#f8fafc" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="-0.8">Anderson Viana Cataldo</text>
