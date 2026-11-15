@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="295" viewBox="0 0 1000 295" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1000" y2="295" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090e1a" />
+      <stop offset="55%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#17153b" />
+    </linearGradient>
+    <radialGradient id="glowIndigo" cx="0.16" cy="0.22" r="0.55">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.30" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="0.88" cy="0.82" r="0.5">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.24" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1">
+        <animate attributeName="stop-color" values="#6366f1;#8b5cf6;#06b6d4;#10b981;#6366f1" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7;#06b6d4;#10b981;#6366f1;#a855f7" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#10b981;#6366f1;#a855f7;#06b6d4" dur="7s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <pattern id="techGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#334155" stroke-width="0.6" stroke-opacity="0.28" />
+    </pattern>
+    <clipPath id="cardClip">
+      <rect x="4" y="4" width="992" height="287" rx="18" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <rect x="4" y="4" width="992" height="287" rx="18" fill="url(#bgGrad)" />
+    <rect x="4" y="4" width="992" height="287" fill="url(#techGrid)" />
+    <rect x="4" y="4" width="992" height="287" fill="url(#glowIndigo)">
+      <animate attributeName="opacity" values="0.65;1;0.65" dur="6s" repeatCount="indefinite" />
+    </rect>
+    <rect x="4" y="4" width="992" height="287" fill="url(#glowCyan)">
+      <animate attributeName="opacity" values="1;0.6;1" dur="6s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Top Animated Border Beam -->
+    <line x1="4" y1="5.5" x2="996" y2="5.5" stroke="url(#accentGrad)" stroke-width="3" />
+    <!-- Bottom Animated Signal Line -->
+    <line x1="4" y1="289" x2="996" y2="289" stroke="#1e293b" stroke-width="2" />
+    <line x1="4" y1="289" x2="996" y2="289" stroke="url(#accentGrad)" stroke-width="2" stroke-dasharray="160 840" stroke-linecap="round">
+      <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="5s" repeatCount="indefinite" />
+    </line>
+  </g>
+
+  <rect x="4" y="4" width="992" height="287" rx="18" stroke="#334155" stroke-opacity="0.6" stroke-width="1.2" />
+
+  <!-- Top Badges -->
+  <rect x="44" y="34" width="292" height="32" rx="16" fill="#6366f1" fill-opacity="0.16" stroke="#818cf8" stroke-opacity="0.38" stroke-width="1" />
+  <text x="62" y="54" fill="#a5b4fc" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="0.9">ENGINEERING PROFILE · FORTALEZA, CE</text>
+
+  <rect x="706" y="34" width="250" height="32" rx="16" fill="#10b981" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.38" stroke-width="1" />
+  <circle cx="726" cy="50" r="7" fill="#10b981" fill-opacity="0.35">
+    <animate attributeName="r" values="4.5;9;4.5" dur="2.2s" repeatCount="indefinite" />
+    <animate attributeName="fill-opacity" values="0.5;0.05;0.5" dur="2.2s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="726" cy="50" r="4.5" fill="#10b981" />
+  <text x="742" y="54" fill="#6ee7b7" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Disponível · Remoto / Híbrido</text>
+
+  <!-- Main Heading -->
+  <text x="44" y="122" fill="#f8fafc" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="-0.8">Anderson Viana Cataldo</text>
+  <rect x="44" y="136" width="320" height="4" rx="2" fill="url(#accentGrad)" />
+
+  <!-- Subtitles -->
+  <text x="44" y="174" fill="#e2e8f0" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18.5" font-weight="600">Desenvolvedor Full-Stack  ·  Automação &amp; RPA Industrial  ·  Agentes de IA (LLM)</text>
+  <text x="44" y="203" fill="#94a3b8" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500">Ciência da Computação (UNIFOR · 6º Semestre)   |   Certificação Huawei HCIA-Storage V5.0   |   Inglês Avançado</text>
+
+  <!-- Tech Pills -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600">
+    <rect x="44" y="228" width="166" height="32" rx="9" fill="#0f172a" stroke="#4f46e5" stroke-opacity="0.55" stroke-width="1" />
+    <text x="127" y="248" fill="#c7d2fe" text-anchor="middle">Next.js 16 · React 19</text>
+
+    <rect x="222" y="228" width="142" height="32" rx="9" fill="#0f172a" stroke="#06b6d4" stroke-opacity="0.55" stroke-width="1" />
+    <text x="293" y="248" fill="#a5f3fc" text-anchor="middle">Python · FastAPI</text>
+
+    <rect x="376" y="228" width="194" height="32" rx="9" fill="#0f172a" stroke="#8b5cf6" stroke-opacity="0.55" stroke-width="1" />
+    <text x="473" y="248" fill="#ddd6fe" text-anchor="middle">Claude Code · MCP · Gemini</text>
+
+    <rect x="582" y="228" width="186" height="32" rx="9" fill="#0f172a" stroke="#10b981" stroke-opacity="0.55" stroke-width="1" />
+    <text x="675" y="248" fill="#a7f3d0" text-anchor="middle">TOTVS WinThor (Oracle)</text>
+
+    <rect x="780" y="228" width="176" height="32" rx="9" fill="#0f172a" stroke="#f59e0b" stroke-opacity="0.5" stroke-width="1" />
+    <text x="868" y="248" fill="#fde68a" text-anchor="middle">Supabase RLS · Edge</text>
+  </g>
+</svg>
