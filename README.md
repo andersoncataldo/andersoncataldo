@@ -27,9 +27,9 @@
 
 Sou **Desenvolvedor Full-Stack** e especialista em **Automação (RPA) e IA aplicada ao desenvolvimento de software**, com quase **2 anos de experiência corporativa** unindo engenharia web de ponta a ponta (**Next.js 16, React 19, TypeScript, Node.js, Python/FastAPI, PostgreSQL/Supabase**) à integração de sistemas legados (**ERP TOTVS WinThor / Oracle**) e **orquestração de agentes de IA**.
 
-- 🎓 **Formação:** Bacharelado em Ciência da Computação na **UNIFOR** *(6º semestre · previsão dez/2027)*
+- 🎓 **Formação:** Bacharelado em Ciência da Computação na **UNIFOR** *(finalizando 6º semestre, adiantando disciplinas do 7º · previsão dez/2027)*
 - 🏅 **Certificação Internacional:** **Huawei HCIA-Storage V5.0** *(jun/2026 — SAN/NAS, RAID, Virtualização e Disaster Recovery)*
-- 🤖 **Diferencial de Engenharia:** Orquestração de **9 agentes de IA** em arquitetura **Maker-Checker** *(Claude Code + MCP + Gemini API)* combinada a **Spec-Driven Development (OpenSpec/BDD)** e gates automatizados de qualidade (**58 testes Pytest**, **35 asserções Playwright**, **95/95 evals de IA sem alucinação**)
+- 🤖 **Diferencial de Engenharia:** Orquestração e multiplexação de agentes de IA (**Claude Code**, **Antigravity CLI**, **Gemini**, **MCP**, **Herdr**, **RTK**, **Ponytail**, `git worktree` em **Linux Ubuntu/WSL2**) em arquitetura **Maker-Checker** combinada a **Spec-Driven Development (OpenSpec/BDD)** e gates automatizados de qualidade (**58 testes Pytest**, **35 asserções Playwright**, **95/95 evals de IA sem alucinação**)
 - 🌍 **Idiomas & Localização:** Português *(Nativo)* · Inglês *(Avançado)* · Espanhol *(Básico)* — **Fortaleza, CE · Atuação 100% Presencial**
 
 ```json
@@ -108,11 +108,11 @@ Sou **Desenvolvedor Full-Stack** e especialista em **Automação (RPA) e IA apli
 
 | Domínio | Tecnologias, Protocolos & Práticas |
 | :--- | :--- |
-| **IA, LLMs & Agentes** | `Claude Code` · `MCP (Model Context Protocol)` · `Google Gemini API (3.8 / 3.5)` · `OpenAI API` · `Corrective RAG (CRAG)` · `Function Calling` · `Maker-Checker (9 Agentes)` · `Evals (95/95)` · `Guardrails & Fallback < 1s` |
+| **IA, LLMs & Agentes** | `Google Gemini API (3.8 / 3.5)` · `OpenAI API` · `MCP (Model Context Protocol)` · `Claude Code` · `Antigravity CLI` · `Corrective RAG (CRAG)` · `Function Calling` · `Maker-Checker (9 Agentes)` · `Evals (95/95)` · `NumPy (ML from Scratch)` |
 | **Front-End & UI SaaS** | `React 19 / 18` · `Next.js 16 (App Router)` · `TypeScript` · `Vite 6` · `Tailwind CSS v4` · `Framer Motion` · `Recharts` · `PWA` · `WCAG 2.1 AA` · `Vue.js` |
-| **Back-End & Dados** | `Python (FastAPI · Django)` · `Node.js (Express)` · `SQLAlchemy` · `Alembic` · `Pydantic v2` · `Zod` · `PostgreSQL (Supabase RLS · RPCs SECURITY DEFINER)` · `Oracle SQL (WinThor)` · `Java (Spring Boot)` · `Neon` · `MongoDB` |
-| **Automação & RPA** | `Paramiko (SFTP)` · `ftplib` · `EDI Pharma Link` · `XML / XSD (SEFAZ)` · `Playwright` · `Selenium` · `Pandas` · `lxml` · `BeautifulSoup` · `PyInstaller` · `Tkinter` · `Streamlit` · `Apps Script` · `n8n` |
-| **Qualidade, Cloud & Sec** | `Pytest (58 suítes)` · `Playwright E2E (35 asserções)` · `GitHub Actions (CI/CD)` · `Cloudflare Pages` · `Render` · `Vercel Edge` · `Docker` · `PM2` · `JWT / SSO / RBAC` · `AppSec (IDOR · CSP) & LGPD` · `OpenSpec / BDD` |
+| **Back-End & Dados** | `Python (FastAPI · Django)` · `Node.js (Express)` · `SQLAlchemy` · `Alembic` · `Pydantic v2` · `Zod` · `PostgreSQL (Supabase RLS · RPCs SECURITY DEFINER)` · `Oracle SQL (WinThor)` · `Neo4j (Cypher)` · `Java (Spring Boot)` · `Neon` · `MongoDB` |
+| **Automação & RPA** | `Paramiko (SFTP)` · `ftplib` · `EDI Pharma Link` · `XML / XSD (SEFAZ)` · `Playwright` · `Selenium` · `pdfplumber` · `Pandas` · `lxml` · `BeautifulSoup` · `OpenPyXL` · `PyInstaller` · `Streamlit` · `Apps Script` · `n8n` |
+| **Qualidade, Linux & Cloud** | `Linux (Ubuntu/WSL2)` · `Herdr · RTK · git worktree` · `Pytest (58+ suítes)` · `Playwright E2E (35 asserções)` · `GitHub Actions (CI/CD)` · `Cloudflare Pages` · `Render` · `Vercel Edge` · `Docker` · `JWT / SSO / RBAC` · `AppSec (IDOR · CSP) & LGPD` · `OpenSpec / BDD` |
 
 ---
 
@@ -122,22 +122,22 @@ Sou **Desenvolvedor Full-Stack** e especialista em **Automação (RPA) e IA apli
 
 | Projeto | Arquitetura & Destaques | Links |
 | :--- | :--- | :--- |
-| **Portfólio SaaS & Anderson AI** | SPA de padrão Silicon Valley com `Command Palette (Ctrl+K)`, CLI executável, Calculadora de ROI RPA, PWA e **Agente Anderson AI** em produção: pipeline híbrido **CRAG + CoVe (5 etapas)**, `Gemini 3.8 Flash / 3.5 Flash-Lite` + fallback OpenAI, **Function Calling**, cache L1/L2 no Supabase com RPCs `SECURITY DEFINER`, **95/95 evals (0% alucinação)** e **WCAG 2.1 AA**. | [![Demo](https://img.shields.io/badge/Live-Demo-10B981?style=flat-square&logo=vercel&logoColor=white)](https://andersoncataldotech.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-C%C3%B3digo-4F46E5?style=flat-square&logo=github)](https://github.com/andersoncataldo/andersoncataldo.tech) |
-| **Plataforma São Carlo Acutis** | Plataforma web educacional gamificada com missões interativas, quizzes em tempo real, rankings e persistência relacional em `React`, `TypeScript`, `Tailwind CSS`, `Supabase (PostgreSQL)` e `Vercel`. | [![Demo](https://img.shields.io/badge/Live-Demo-10B981?style=flat-square&logo=vercel&logoColor=white)](https://carlo-acutis-virid.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-C%C3%B3digo-4F46E5?style=flat-square&logo=github)](https://github.com/andersoncataldo/CarloAcutis) |
-| **Processador de Consultas SQL** | Motor em `Python` para parsing SQL, conversão para álgebra relacional, árvore de consulta, otimização heurística e interface gráfica. | [![Repo](https://img.shields.io/badge/GitHub-C%C3%B3digo-4F46E5?style=flat-square&logo=github)](https://github.com/andersoncataldo/processador-de-consultas) |
-| **Índice Hash & Algoritmos** | Implementações acadêmicas de estruturas de dados, sistemas operacionais e concorrência: Índice Hash (`Python`), Máquina de Estados (`Python`) e Análise de Desempenho Paralelo/Concorrente (`Java`). | [![Hash](https://img.shields.io/badge/%C3%8Dndice_Hash-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/andersoncataldo/PROJETO-INDICE-HASH) [![Paralelo](https://img.shields.io/badge/Concorr%C3%AAncia-Java-B07219?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/andersoncataldo/algoritmos-desempenho-paralelo-concorrente) |
+| **Portfólio SaaS & Anderson AI** | SPA de padrão moderno com `Command Palette (Ctrl+K)`, CLI executável, Calculadora de ROI RPA, PWA e **Agente Anderson AI** em produção: pipeline híbrido **CRAG + CoVe (5 etapas)**, `Gemini 3.8 Flash / 3.5 Flash-Lite` + fallback OpenAI, **Function Calling**, cache L1/L2 no Supabase com RPCs `SECURITY DEFINER`, **95/95 evals (0% alucinação)** e **WCAG 2.1 AA**. | [![Demo](https://img.shields.io/badge/Live-Demo-10B981?style=flat-square&logo=vercel&logoColor=white)](https://andersoncataldotech.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-C%C3%B3digo-4F46E5?style=flat-square&logo=github)](https://github.com/andersoncataldo/andersoncataldo.tech) |
+| **RPA Extratos — Consolidação Bancária** | Automação ponta a ponta em `Python` para extração e reconciliação aritmética (`Decimal`) de extratos bancários em **PDF** (`pdfplumber`), **Excel** (`openpyxl`) e **Imagem** (**Gemini Vision** + `Pydantic`), com isolamento de falhas, hash **SHA-256**, **52+ testes Pytest**, GitHub Actions e painel **Streamlit**. | [![Demo](https://img.shields.io/badge/Live-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://case-rpa-consolidacao-extratos.streamlit.app/) [![Repo](https://img.shields.io/badge/GitHub-C%C3%B3digo-4F46E5?style=flat-square&logo=github)](https://github.com/andersoncataldo/case-rpa-consolidacao-extratos) |
+| **Plataforma São Carlo Acutis** | Plataforma web educacional gamificada com missões interativas, quizzes autenticados, progressão por XP, ligas paroquiais e persistência relacional em `React 19`, `TypeScript`, `Tailwind CSS`, `Supabase (Auth, RLS, RPCs)`, `Vitest` e `Vercel`. | [![Demo](https://img.shields.io/badge/Live-Demo-10B981?style=flat-square&logo=vercel&logoColor=white)](https://carlo-acutis-virid.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-C%C3%B3digo-4F46E5?style=flat-square&logo=github)](https://github.com/andersoncataldo/CarloAcutis) |
+| **Neo4j — Recomendação em Grafos** | Sistema de recomendação de filmes orientado a grafos em `Neo4j` + `Cypher` (filtragem colaborativa, baseada em conteúdo, explicabilidade por caminho, cold start e CRUD completo) com testes automatizados em `Python` via Bolt. | [![Repo](https://img.shields.io/badge/GitHub-C%C3%B3digo-4F46E5?style=flat-square&logo=github)](https://github.com/andersoncataldo/neo4j-recomendacao-grafos) |
+| **Fundamentos CS & ML from Scratch** | Implementações próprias sem frameworks pesados: **Processador de Consultas SQL** (`Python`), **ML do Zero com NumPy** *(Regressão Linear, kNN, Perceptron)*, **Índice Hash** (`Python`), **Máquina de Estados** (`Python`) e **Benchmark Paralelo/Concorrente** (`Java`). | [![SQL](https://img.shields.io/badge/SQL_Engine-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/andersoncataldo/processador-de-consultas) [![ML](https://img.shields.io/badge/ML_NumPy-Python-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/andersoncataldo/ml-from-scratch-numpy) [![Paralelo](https://img.shields.io/badge/Concorr%C3%AAncia-Java-B07219?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/andersoncataldo/algoritmos-desempenho-paralelo-concorrente) |
 
-### 🏢 Cases Corporativos em Produção & Pesquisa Aplicada *(Código Privado / Local)*
+### 🏢 Cases Corporativos em Produção *(Código Privado — NDA)*
 
 <details>
-<summary>📂 Explorar 6 sistemas corporativos e de pesquisa entregues</summary>
+<summary>📂 Explorar 5 sistemas corporativos entregues em produção</summary>
 
 1. **Central Grupo Mais & SSO Corporativo** *(Distribuidora Mais Saúde)* — Monorepo full-stack unificando 4 plataformas internas sob **SSO (JWT)** com `Next.js 16`, `React 19`, `Vite`, `Node.js/Express`, `Python/FastAPI`, `Supabase (RLS)` e deploy contínuo em `Cloudflare Pages + Render`.
 2. **Sistema de Chamados Corporativo** *(Distribuidora Mais Saúde)* — Plataforma multinível (`RBAC` em 4 hierarquias), cálculo preditivo de **SLA**, métricas de **MTTR**, dashboards BI em `Recharts`, ações em lote e exportação instantânea de relatórios em PDF.
 3. **Logística Reversa & Devoluções com IA** *(Distribuidora Mais Saúde)* — Substituiu planilhas e formulários por triagem automatizada, bloqueio de NF duplicada, **Modo TV** para expedição e diagnóstico executivo com **LLM (`Gemini / OpenAI`)**, curva de Pareto e **fallback heurístico `< 1s`** sanitizado para **LGPD**.
 4. **FTP_SYNC & Motor EDI WinThor (Oracle)** *(Distribuidora Mais Saúde)* — Ponte SFTP autônoma conectando operadores farmacêuticos (*Eurofarma, Smartped, Momenta*) em layout **EDI Pharma Link** ao **TOTVS WinThor Cloud** a cada 15 min, reduzindo **6h para `< 10s` (>99,9%)**.
 5. **Sistema de Ativos de TI & Termos SHA-256** *(Distribuidora Mais Saúde)* — Custódia de equipamentos com aprovação em 2 níveis, auditoria por **triggers SQL imutáveis** no PostgreSQL e geração automática de termos `.docx` assinados com **hash SHA-256**.
-6. **Squad Autônomo de Agentes de IA** *(Pesquisa Aplicada)* — Orquestração multiagente construída do zero em `Node.js` + `Google Gemini API` + barramento JSON compartilhado + máquina de estados e supervisão 24/7 via `PM2`.
 
 </details>
 
@@ -146,7 +146,7 @@ Sou **Desenvolvedor Full-Stack** e especialista em **Automação (RPA) e IA apli
 ## 📈 Telemetria & Métricas de Uso no GitHub
 
 <div align="center">
-  <img src="./assets/github-telemetry.svg?v=1" alt="Telemetria GitHub: 205+ Contribuições, 186+ Commits, 17 Repositórios Públicos e Distribuição de Linguagens" width="100%" />
+  <img src="./assets/github-telemetry.svg?v=2" alt="Telemetria GitHub: 205+ Contribuições, 186+ Commits, 13 Repositórios Curados e Distribuição de Linguagens" width="100%" />
 </div>
 
 <br />

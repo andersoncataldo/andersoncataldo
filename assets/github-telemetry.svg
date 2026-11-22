@@ -34,8 +34,8 @@
     <text x="238" y="104" fill="#94a3b8" font-size="11.5" font-weight="600">Commits Registrados</text>
 
     <rect x="412" y="56" width="178" height="64" rx="10" fill="#0b1220" stroke="#1e293b" stroke-width="1.2" />
-    <text x="428" y="84" fill="#818cf8" font-size="22" font-weight="800">17</text>
-    <text x="428" y="104" fill="#94a3b8" font-size="11.5" font-weight="600">Repositórios Públicos</text>
+    <text x="428" y="84" fill="#818cf8" font-size="22" font-weight="800">13</text>
+    <text x="428" y="104" fill="#94a3b8" font-size="11.5" font-weight="600">Repositórios Curados</text>
 
     <rect x="602" y="56" width="178" height="64" rx="10" fill="#0b1220" stroke="#1e293b" stroke-width="1.2" />
     <text x="618" y="84" fill="#fbbf24" font-size="22" font-weight="800">4★</text>
